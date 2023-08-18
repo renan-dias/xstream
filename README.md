@@ -45,4 +45,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE) for more infor
 
 ---
 
-Made with ♥ by Renan Dias :wave: [Get in touch!](https://www.linkedin.com/in/rdpb/)
+Made with ♥ by Renan Dias :wave: [Get in touch!](https://www.linkedin.com/in/renan-barbono/)
